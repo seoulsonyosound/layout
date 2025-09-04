@@ -7,10 +7,10 @@ function App() {
 
   return (
     <div className="container">
-    <header>Header</header>
+    <header>Theeanna Jether Alejos</header>
     <div className="mainsection">
       <div className="lcolumn">
-        <div className="hero">Theeanna Jether Alejos</div>
+        <div className="hero"></div>
         <div className="sidebar">Sidebar</div>
       </div>
       <div className="rcolumn">
