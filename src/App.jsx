@@ -10,7 +10,7 @@ function App() {
     <header>Header</header>
     <div className="mainsection">
       <div className="lcolumn">
-        <div className="hero">Hero</div>
+        <div className="hero">Theeanna Jether Alejos</div>
         <div className="sidebar">Sidebar</div>
       </div>
       <div className="rcolumn">
@@ -22,7 +22,7 @@ function App() {
       <div className="related_images">Related Images</div>
       <div className="related_posts">Related Posts</div>
     </div>
-    <footer>Footer</footer>
+    <footer>C-PCIT9 IT3A</footer>
   </div>
   )
 }
